@@ -45,8 +45,6 @@ func main() {
 		log.Printf("%d: %s", i, u)
 	}
 
-	ActionOnPage2(ctx, "https://www.audacy.com/kisschattanooga/latest/song-request-alerts")
-
 	startIdx := 0
 
 	// map string to bool
